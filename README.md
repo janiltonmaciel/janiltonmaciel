@@ -1,7 +1,7 @@
 ## Hi 👋 I am Janilton Maciel! 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=janiltonmaciel&show_icons=true&theme=dark&hide=stars&count_private=true&layout=compact")
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janiltonmaciel&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janiltonmaciel&layout=compact&theme=dark&hide=shell)
 
 
 <!--
